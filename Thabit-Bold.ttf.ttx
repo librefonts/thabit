@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="Thabit-Bold.ttf.GlyphOrder.ttx"/>
+  <head src="Thabit-Bold.ttf._h_e_a_d.ttx"/>
+  <hhea src="Thabit-Bold.ttf._h_h_e_a.ttx"/>
+  <maxp src="Thabit-Bold.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="Thabit-Bold.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="Thabit-Bold.ttf._h_m_t_x.ttx"/>
+  <cmap src="Thabit-Bold.ttf._c_m_a_p.ttx"/>
+  <fpgm src="Thabit-Bold.ttf._f_p_g_m.ttx"/>
+  <prep src="Thabit-Bold.ttf._p_r_e_p.ttx"/>
+  <cvt src="Thabit-Bold.ttf._c_v_t.ttx"/>
+  <loca src="Thabit-Bold.ttf._l_o_c_a.ttx"/>
+  <glyf src="Thabit-Bold.ttf._g_l_y_f.ttx"/>
+  <name src="Thabit-Bold.ttf._n_a_m_e.ttx"/>
+  <post src="Thabit-Bold.ttf._p_o_s_t.ttx"/>
+  <FFTM src="Thabit-Bold.ttf.F_F_T_M_.ttx"/>
+  <GDEF src="Thabit-Bold.ttf.G_D_E_F_.ttx"/>
+  <GPOS src="Thabit-Bold.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="Thabit-Bold.ttf.G_S_U_B_.ttx"/>
+  <PfEd src="Thabit-Bold.ttf.P__fE__d.ttx"/>
+</ttFont>
