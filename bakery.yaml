@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [Thabit.ttf.ttx, Thabit-BoldOblique.ttf.ttx, Thabit-Bold.ttf.ttx, Thabit-Oblique.ttf.ttx,
+  src/Thabit-Bold.sfd, src/Thabit.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
